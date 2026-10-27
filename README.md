@@ -1,8 +1,8 @@
 # Olá, eu sou o Felipe Padovani 👋
 
-Engenheiro da Computação em formação (**Universidade São Judas Tadeu**) e Técnico em Desenvolvimento de Sistemas (**ETEC de Poá**), focado em **Análise de Dados, Business Intelligence e Desenvolvimento de Software**.
+Engenheiro da Computação em formação (**Universidade São Judas Tadeu**) e Técnico em Desenvolvimento de Sistemas (**ETEC de Poá**), focado em **Análise de Dados e Desenvolvimento de Software**.
 
-Combino raciocínio analítico, lógica de programação e experiência prática em suporte/operações de TI para transformar dados brutos em decisões estratégicas de negócio.
+Tento combinar raciocínio analítico, lógica de programação e experiência prática em suporte/operações de TI para transformar dados brutos em decisões estratégicas de negócio e alguns outros projetos pessoais para facilitar meu dia a dia.
 
 ---
 
